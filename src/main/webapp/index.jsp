@@ -13,7 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>수피 바라기</LI>
+          <LI>승헌리</LI>
           <LI>동우</LI>
       </OL>
   </DIV> 
